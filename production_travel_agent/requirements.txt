@@ -1,0 +1,16 @@
+# OpenAI Agents SDK
+openai-agents>=1.0.0
+
+# Core dependencies
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+
+# Optional: For enhanced functionality
+python-dotenv>=1.0.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# mypy>=1.0.0
+
